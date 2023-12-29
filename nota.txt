@@ -1,0 +1,21 @@
+comandos
+
+1_ 
+Criação do projeto
+comando: laravel new laravelCrud
+
+2_
+Startando projeto
+comando: php artisan serve
+
+3_ 
+Criando primeiro Model
+comando: php artisan make:model Product -m
+
+4_ 
+Rodando a migrate
+comando: php artisan migrate:fresh
+
+5_
+Criando o controller
+comando: php artisan make:controller ProductController
